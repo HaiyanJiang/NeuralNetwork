@@ -1,0 +1,14 @@
+
+from tensorflow.keras.models import Sequential
+
+which means tensorflow is a folder and keras is a subfolder of it and models is
+a module of keras.
+
+
+The Sequential model is a linear stack of layers.
+so we need to know what types of layers does Keras have and how to stack
+different layers.
+
+
+
+
